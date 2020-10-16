@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RelativeLayoutTugas</string>
+    <string name="squidward">SQUIDWARD</string>
+    <string name="spongebob">SPONGEBOB</string>
+    <string name="merah">Merah</string>
+    <string name="biru">BIRU</string>
+    <string name="hijau">HIJAU</string>
+    <string name="kuning">KUNING</string>
+    <string name="pink">PINK</string>
+</resources>
